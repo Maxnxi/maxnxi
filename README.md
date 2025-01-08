@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I’m Maksim
 
-I’m Maksim, an iOS Developer with a passion for creating engaging social networking applications. With years of experience under my belt, I have honed my skills in **Swift**, **Objective-C**, and **C++**. Throughout my career, I’ve developed dozens unique applications and collaborated with various teams across different projects, which has enriched my understanding of the development process.
+I’m an iOS Developer with a passion for creating engaging social networking applications. With years of experience under my belt, I have honed my skills in **Swift**, **Objective-C**, and **C++**. Throughout my career, I’ve developed dozens unique applications and collaborated with various teams across different projects, which has enriched my understanding of the development process.
 
 Currently, I’m diving deep into rendering photos and videos and leveraging GPU-based calculations to enhance app performance. I am always eager to learn and explore new technologies, so I regularly engage in discussions about programming and share insights with fellow developers.
 
