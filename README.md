@@ -17,5 +17,4 @@ Feel free to explore my repositories and reach out if you'd like to connect!
 # Portfolio
 # Videos:
 1) integrated DeepAR facemasks
-[FaceARMasks](https://github.com/Maxnxi/maxnxi/blob/main/Portfolio/Video/FaceARMask.MOV)
 [Watch the Video](https://youtube.com/shorts/vorGbrgUgxM?feature=share)
