@@ -13,3 +13,8 @@ Currently, I’m diving deep into rendering photos and videos and leveraging GPU
 - ⚡ Fun fact: I love discussing code over coffee and attending hackathons!
 
 Feel free to explore my repositories and reach out if you'd like to connect!
+
+# Portfolio
+# Videos:
+1) integrated DeepAR facemasks
+[FaceARMasks](https://github.com/Maxnxi/maxnxi/blob/main/Portfolio/Video/FaceARMask.MOV)
