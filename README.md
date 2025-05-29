@@ -16,5 +16,7 @@ Feel free to explore my repositories and reach out if you'd like to connect!
 
 # Portfolio
 # Videos:
-1) integrated DeepAR facemasks
+1) Integrated DeepAR facemasks.
 [Watch the Video](https://youtube.com/shorts/vorGbrgUgxM?feature=share)
+2) A splited View User interface. Prototype.
+[Watch the Video](https://youtube.com/shorts/jPbrK47lQbY?feature=share)
