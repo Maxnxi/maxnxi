@@ -17,8 +17,8 @@ Feel free to explore my repositories and reach out if you'd like to connect!
 # Portfolio
 # Videos:
 1) Integrated DeepAR facemasks.
-[Watch the Video](https://youtube.com/shorts/vorGbrgUgxM?feature=share)
-[Watch the Video](https://youtu.be/m6XELwsVxKs)
+[Video #1](https://youtube.com/shorts/vorGbrgUgxM?feature=share)
+[Video #2](https://youtu.be/m6XELwsVxKs)
 3) A splited View User interface. Prototype.
 [Watch the Video](https://youtube.com/shorts/jPbrK47lQbY?feature=share)
 4) Beeline Books User Interface
