@@ -18,11 +18,12 @@ Feel free to explore my repositories and reach out if you'd like to connect!
 # Videos:
 1) Integrated DeepAR facemasks.
 [Watch the Video](https://youtube.com/shorts/vorGbrgUgxM?feature=share)
-2) A splited View User interface. Prototype.
+[Watch the Video](https://youtu.be/m6XELwsVxKs)
+3) A splited View User interface. Prototype.
 [Watch the Video](https://youtube.com/shorts/jPbrK47lQbY?feature=share)
-3) Beeline Books User Interface
+4) Beeline Books User Interface
 [Watch the Video](https://youtube.com/shorts/Eipcz3E6wzo?feature=share)
-4) Video showing my framework CenteredHorizontalCollection in SwiftUI
+5) Video showing my framework CenteredHorizontalCollection in SwiftUI
 [Watch the Video](https://youtube.com/shorts/xr6UlLfU6L0?feature=share)
-5) MoonWise App
+6) MoonWise App
 [Watch the Video](https://youtube.com/shorts/PI3fyV24Afw)
